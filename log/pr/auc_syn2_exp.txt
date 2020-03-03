@@ -1,0 +1,1 @@
+dataset: syn2, model: exp, auc: 0.5220661724327293
